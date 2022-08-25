@@ -3,6 +3,9 @@
 
 
 .test {
-    background-color: lightblue;
-    color: rgba(0, 0, 208, 0.267);
+    background-color: rgb(35, 35, 35);
+    color: rgba(255, 255, 255, 0.267);
+    top: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
 }
